@@ -2,7 +2,9 @@
 # PR Response Doc — CineLog Watchlist Feature
 
 ## AI Usage
-<!-- Fill in at the end — how you used AI tools during this project -->
+<!-- Used claude to help me decide my choices based on a simple user experience that isn't complicated to use and manage. For comment 5, used ai to use make sure a watchlist is a to-watch list users scan to find a title,  -->
+
+Oneline Screenshot: ![alt text](online.JPG)
 
 ## Comment 1 — Rename
 **What I did:**
